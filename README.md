@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yash 👋</h1>
+<h1 align="center">Hello, This is Yash 🙏</h1>
 
 <p align="center">
   <strong>M.Sc. Mathematics & Scientific Computing · NIT Warangal · Aspiring Data Scientist</strong>
@@ -8,14 +8,17 @@
 
 ## 👋 About Me
 
-I'm a **Mathematics & Scientific Computing** student at **NIT Warangal**, passionate about turning mathematical foundations into real-world data solutions. I'm actively building toward a career in **Data Science** and **Quantitative Finance**.
+**Mathematics is my foundation. Data is my medium. Insights are my output.**
 
-I believe in understanding *why* things work before reaching for the library — first principles first, abstractions second.
+M.Sc. student at **NIT Warangal**, building end-to-end data science projects across 
+time series forecasting, financial analytics, and interactive visualization.
+I don't just use tools — I understand why they work.
 
 ---
 
 ## 🎓 Education
 
+**B.Sc. Mathematics & Statistics** — University Of Lucknow, Lucknow *Completed*
 **M.Sc. Mathematics & Scientific Computing** — National Institute of Technology, Warangal *(2025 – Present)*
 
 ---
