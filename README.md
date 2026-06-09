@@ -16,7 +16,7 @@ I believe in understanding *why* things work before reaching for the library —
 
 ## 🎓 Education
 
-**M.Sc. Mathematics & Scientific Computing** — National Institute of Technology, Warangal *(2023 – Present)*
+**M.Sc. Mathematics & Scientific Computing** — National Institute of Technology, Warangal *(2025 – Present)*
 
 ---
 
@@ -27,6 +27,7 @@ I believe in understanding *why* things work before reaching for the library —
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Data & ML**
 
@@ -34,6 +35,8 @@ I believe in understanding *why* things work before reaching for the library —
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools & Platforms**
