@@ -19,6 +19,7 @@ I don't just use tools — I understand why they work.
 ## 🎓 Education
 
 **B.Sc. Mathematics & Statistics** — University Of Lucknow, Lucknow *Completed*
+*----*
 **M.Sc. Mathematics & Scientific Computing** — National Institute of Technology, Warangal *(2025 – Present)*
 
 ---
