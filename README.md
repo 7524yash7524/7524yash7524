@@ -1,4 +1,4 @@
-<h1 align="center">Hello, This is Yash 🙏</h1>
+<h1 align="center">Hello, This is Yash Chitransh</h1>
 
 <p align="center">
   <strong>M.Sc. Mathematics & Scientific Computing · NIT Warangal · Aspiring Data Scientist</strong>
