@@ -83,7 +83,7 @@ Data Science Roadmap
 
 ## ✍️ Writing
 
-I write about Data Science, Time Series, and Quantitative Finance on Medium.
+I write about Data Science, Time Series on Medium.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ysrivastava470)
 
