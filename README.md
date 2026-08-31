@@ -60,9 +60,9 @@ Data Science Roadmap
 ├── Exploratory Data Analysis & Feature Engineering ✅
 ├── SQL (MySQL, SQL Server) ✅
 ├── Conformal Prediction & Uncertainty Quantification ✅
-├── Machine Learning (Scikit-Learn, Aurélien Géron) 🔄
+├── Machine Learning (Scikit-Learn, Aurélien Géron) ✅
 ├── Data Structures & Algorithms 🔄
-├── Deep Learning / NLP (from scratch: BoW → embeddings → RNN/LSTM → Transformer) 🔜
+├── Deep Learning / NLP (from scratch: BoW → embeddings → RNN/LSTM → Transformer) 🔄
 └── LLMs & RAG (upcoming)
 ```
 
