@@ -21,7 +21,7 @@ I don't just use tools — I understand why they work.
 
 **B.Sc. Mathematics & Statistics** — University of Lucknow *(Completed)*
 **M.Sc. Mathematics & Scientific Computing** — National Institute of Technology, Warangal *(2025 – 2027)*
-IIT JAM AIR 216 (Mathematics)
+IIT JAM AIR 216 (Statistics)
 
 ---
 
