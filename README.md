@@ -1,7 +1,8 @@
 <h1 align="center">Hello, This is Yash Chitransh</h1>
 
 <p align="center">
-  <strong>M.Sc. Mathematics & Scientific Computing · NIT Warangal · Aspiring Data Scientist / Quant</strong>
+  <strong>M.Sc. Mathematics & Scientific Computing · NIT Warangal · Aspiring Data Scientist / Quant</strong><br>
+  Open to data science, ML and analytics internships
 </p>
 
 ---
@@ -72,14 +73,17 @@ Data Science Roadmap
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
+| Project | What it shows | Stack |
 |---|---|---|
-| [Chronos-2 Calibration Audit](https://github.com/7524yash7524/conformal-prediction_project) | Diagnosed miscalibration in Amazon Chronos-2 zero-shot forecasts on Sensex & Nifty using PIT histograms and empirical coverage; applied fixed & adaptive conformal prediction (ACI) to restore valid coverage; novel regime-conditional calibration finding replicated across both indices | Python, Chronos-2, Conformal Prediction |
-| [Sensex Forecasting](https://github.com/7524yash7524/Comparative-Evaluation-of-Classical-Statistical-Time-Series-Models-for-Equity-Index-Forecasting) | Comparative evaluation of nine classical forecasting models (AR → MA → ARMA → ARIMA → SARIMA → SARIMAX) on BSE Sensex; best result 1.75% MAPE using USD/INR as an exogenous variable | Python, Statsmodels, Pandas |
-| [Chess Performance Dashboard + ML](https://github.com/7524yash7524/chess-dashboard-improved) | Analytics dashboard + win-probability classifier (logistic regression → decision tree → random forest → gradient boosting, ROC-AUC 0.838) + ARIMA rating forecaster with conformal prediction intervals, on 3,797 personal Chess.com games | Python, Scikit-learn, Statsmodels, Streamlit |
-| [WQU Applied Data Science Lab](https://github.com/7524yash7524/WQU-Applied-Data-Science-Lab) | End-to-end data science projects covering EDA, regression, time series, classification, and financial modelling | Python, Pandas, Scikit-learn |
-| [India Census Visualization](https://github.com/7524yash7524/database-mini-project-on-India-Census) | Interactive district-level map of India Census 2011 data with state filtering | Python, Streamlit, Plotly |
-| [Antidiabetic Drug Forecasting](https://github.com/7524yash7524/antidiabetic-drug-forecasting-australia) | SARIMA model to forecast antidiabetic drug prescriptions in Australia | Python, Statsmodels |
+| [Chronos-2 Calibration Audit](https://github.com/7524yash7524/conformal-prediction_project) · [SSRN paper](https://doi.org/10.2139/ssrn.7300198) | Amazon Chronos-2's 80% prediction intervals covered only 71-75% of Sensex/Nifty outcomes beyond day 1. Coverage also depends on the volatility regime, and the pattern flips with the horizon. Conformal correction narrowed the gap (75.2% to 78.7% at 16 days) but did not fully close it | Python, Chronos-2, Conformal Prediction |
+| [Customer Churn & Value-Based Targeting](https://github.com/7524yash7524/customer-churn-risk-analytics) | Calibrated Gradient Boosting model (ROC-AUC 0.845) that ranks telecom customers by expected retention ROI: $122,995 expected net gain vs. $27,164 when contacting everyone at 50%+ risk. Live dashboard | Python, Scikit-learn, Streamlit |
+| [Coverage-Aware Guardrails](https://github.com/7524yash7524/coverage-aware-guardrails) | Per-use-case Conformal Risk Control for AI response checking. Accenture Innovation Challenge 2026, Round 2. Live demo | Python, Streamlit |
+| [BankCore](https://github.com/7524yash7524/BankCore-SQLServer) | SQL Server banking database: double-entry ledger enforced by triggers, concurrency-safe transfers, audit logging, 100K+ synthetic transactions | T-SQL |
+| [Sensex Forecasting](https://github.com/7524yash7524/Comparative-Evaluation-of-Classical-Statistical-Time-Series-Models-for-Equity-Index-Forecasting) | Nine classical forecasting models (AR to SARIMAX) compared on BSE Sensex. Best result 1.75% MAPE using USD/INR as an exogenous variable | Python, Statsmodels |
+| [Chess Performance Dashboard + ML](https://github.com/7524yash7524/chess-dashboard-improved) | Win-probability classifier (ROC-AUC 0.838) and ARIMA rating forecaster with conformal intervals, on 3,797 personal Chess.com games | Python, Scikit-learn, Statsmodels, Streamlit |
+| [Antidiabetic Drug Forecasting](https://github.com/7524yash7524/antidiabetic-drug-forecasting-australia) | SARIMA forecast of antidiabetic drug prescriptions in Australia | Python, Statsmodels |
+| [WQU Applied Data Science Lab](https://github.com/7524yash7524/WQU-Applied-Data-Science-Lab) | EDA, regression, time series, classification and financial modelling projects | Python, Pandas, Scikit-learn |
+| [India Census Visualization](https://github.com/7524yash7524/database-mini-project-on-India-Census) | Interactive district-level map of India Census 2011 data | Python, Streamlit, Plotly |
 
 ---
 
@@ -88,10 +92,15 @@ Data Science Roadmap
 I write about Data Science, Time Series, and Uncertainty Quantification on Medium.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ysrivastava470)
+[![SSRN](https://img.shields.io/badge/SSRN-Paper-1A5A96?style=for-the-badge)](https://doi.org/10.2139/ssrn.7300198)
 
 ---
 
 ## 🔗 Connect with Me
+
+<!-- Add your email and resume link here, for example:
+**Email:** your.email@example.com · **Resume:** [PDF](link-to-your-resume)
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chitransh-4b108b2aa)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ysrivastava470)
