@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Yash Chitransh. M.Sc. Mathematics and Scientific Computing, NIT Warangal">
+<title>Yash Chitransh</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#111a33"/><stop offset="1" stop-color="#1a1240"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" x2="1">
+    <stop offset="0" stop-color="#e0f2fe"/><stop offset="0.5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/>
+  </linearGradient>
+  <clipPath id="round"><rect width="1000" height="300" rx="18"/></clipPath>
+</defs>
+<style>
+  .grid line { stroke:#ffffff; stroke-opacity:.045; stroke-width:1; }
+  .hist { fill:none; stroke:url(#line); stroke-width:2.6; stroke-linecap:round; stroke-linejoin:round;
+          stroke-dasharray:1400; stroke-dashoffset:1400; animation: draw 9s ease-in-out infinite; }
+  .fc { fill:none; stroke:#c4b5fd; stroke-width:2.2; stroke-dasharray:7 6; opacity:0; animation: show 9s ease-in-out infinite; }
+  .band { fill:#a78bfa; opacity:0; animation: band 9s ease-in-out infinite; transform-origin:660px 198px; }
+  .band50 { fill:#a78bfa; opacity:0; animation: band50 9s ease-in-out infinite; transform-origin:660px 198px; }
+  .now { stroke:#94a3b8; stroke-width:1; stroke-dasharray:3 4; opacity:0; animation: show 9s ease-in-out infinite; }
+  .dot { fill:#38bdf8; opacity:0; animation: dot 9s ease-in-out infinite; }
+  .lbl { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#a5b4fc; opacity:0; animation: show 9s ease-in-out infinite; letter-spacing:.5px; }
+  .sym { font-family: 'Cambria Math', 'STIX Two Math', Georgia, serif; fill:#93c5fd; opacity:.10; animation: float 8s ease-in-out infinite; }
+  .name { font: 800 46px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:url(#name); opacity:0; animation: rise 1.2s .2s ease-out forwards; }
+  .sub { font: 500 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#cbd5e1; opacity:0; animation: rise 1.2s .7s ease-out forwards; }
+  .tag { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#7dd3fc; opacity:0; animation: rise 1.2s 1.2s ease-out forwards; letter-spacing:.6px; }
+  .hi { font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#38bdf8; opacity:0; animation: rise 1s 0s ease-out forwards; }
+  @keyframes draw { 0% {stroke-dashoffset:1400} 35% {stroke-dashoffset:0} 90% {stroke-dashoffset:0; opacity:1} 100% {stroke-dashoffset:0; opacity:0} }
+  @keyframes show { 0%,36% {opacity:0} 44%,88% {opacity:1} 100% {opacity:0} }
+  @keyframes dot { 0%,34% {opacity:0} 37%,88% {opacity:1} 100% {opacity:0} }
+  @keyframes band { 0%,38% {opacity:0; transform:scaleY(.05)} 55% {opacity:.18; transform:scaleY(1)} 88% {opacity:.18; transform:scaleY(1)} 100% {opacity:0; transform:scaleY(1)} }
+  @keyframes band50 { 0%,40% {opacity:0; transform:scaleY(.05)} 58% {opacity:.28; transform:scaleY(1)} 88% {opacity:.28; transform:scaleY(1)} 100% {opacity:0; transform:scaleY(1)} }
+  @keyframes rise { from {opacity:0; transform:translateY(12px)} to {opacity:1; transform:translateY(0)} }
+  @keyframes float { 0%,100% {transform:translateY(0)} 50% {transform:translateY(-10px)} }
+  @media (prefers-reduced-motion: reduce) {
+    .hist { animation:none; stroke-dashoffset:0 } .fc,.now,.lbl,.dot { animation:none; opacity:1 }
+    .band { animation:none; opacity:.18 } .band50 { animation:none; opacity:.28 } .sym { animation:none }
+  }
+</style>
+<g clip-path="url(#round)">
+  <rect width="1000" height="300" fill="url(#bg)"/>
+  <g class="grid"><line x1="40" y1="40" x2="40" y2="270" />
+<line x1="86" y1="40" x2="86" y2="270" />
+<line x1="132" y1="40" x2="132" y2="270" />
+<line x1="178" y1="40" x2="178" y2="270" />
+<line x1="224" y1="40" x2="224" y2="270" />
+<line x1="270" y1="40" x2="270" y2="270" />
+<line x1="316" y1="40" x2="316" y2="270" />
+<line x1="362" y1="40" x2="362" y2="270" />
+<line x1="408" y1="40" x2="408" y2="270" />
+<line x1="454" y1="40" x2="454" y2="270" />
+<line x1="500" y1="40" x2="500" y2="270" />
+<line x1="546" y1="40" x2="546" y2="270" />
+<line x1="592" y1="40" x2="592" y2="270" />
+<line x1="638" y1="40" x2="638" y2="270" />
+<line x1="684" y1="40" x2="684" y2="270" />
+<line x1="730" y1="40" x2="730" y2="270" />
+<line x1="776" y1="40" x2="776" y2="270" />
+<line x1="822" y1="40" x2="822" y2="270" />
+<line x1="868" y1="40" x2="868" y2="270" />
+<line x1="914" y1="40" x2="914" y2="270" />
+<line x1="960" y1="40" x2="960" y2="270" />
+<line x1="20" y1="46" x2="980" y2="46" />
+<line x1="20" y1="92" x2="980" y2="92" />
+<line x1="20" y1="138" x2="980" y2="138" />
+<line x1="20" y1="184" x2="980" y2="184" />
+<line x1="20" y1="230" x2="980" y2="230" />
+<line x1="20" y1="276" x2="980" y2="276" /></g>
+  <text class="sym" x="860" y="70" font-size="26" style="animation-delay:-0.0s">Σ</text>
+<text class="sym" x="760" y="120" font-size="22" style="animation-delay:-2.6s">σ</text>
+<text class="sym" x="930" y="150" font-size="20" style="animation-delay:-5.2s">μ</text>
+<text class="sym" x="690" y="60" font-size="28" style="animation-delay:-1.3s">∫</text>
+<text class="sym" x="820" y="175" font-size="22" style="animation-delay:-3.9s">ŷ</text>
+<text class="sym" x="905" y="95" font-size="18" style="animation-delay:-6.5s">α</text>
+  <path class="band" d="M660.0,194.0 L672.5,182.6 L685.0,177.6 L697.5,171.7 L710.0,164.6 L722.5,157.7 L735.0,152.6 L747.5,149.9 L760.0,149.3 L772.5,149.2 L785.0,147.8 L797.5,144.2 L810.0,138.8 L822.5,133.1 L835.0,129.0 L847.5,127.1 L860.0,127.2 L872.5,127.8 L885.0,127.0 L897.5,124.0 L910.0,119.2 L922.5,113.9 L935.0,110.0 L947.5,108.4 L960.0,108.8 L960.0,250.5 L947.5,247.3 L935.0,246.0 L922.5,246.9 L910.0,249.2 L897.5,250.9 L885.0,250.7 L872.5,248.2 L860.0,244.3 L847.5,240.8 L835.0,239.0 L822.5,239.5 L810.0,241.3 L797.5,242.6 L785.0,242.0 L772.5,239.0 L760.0,234.5 L747.5,230.1 L735.0,227.4 L722.5,226.7 L710.0,227.2 L697.5,226.9 L685.0,224.2 L672.5,217.8 L660.0,202.0 Z"/>
+  <path class="band50" d="M660.0,196.0 L672.5,191.4 L685.0,189.3 L697.5,185.5 L710.0,180.3 L722.5,175.0 L735.0,171.3 L747.5,170.0 L760.0,170.6 L772.5,171.6 L785.0,171.3 L797.5,168.8 L810.0,164.4 L822.5,159.7 L835.0,156.5 L847.5,155.5 L860.0,156.5 L872.5,157.9 L885.0,157.9 L897.5,155.7 L910.0,151.7 L922.5,147.2 L935.0,144.0 L947.5,143.2 L960.0,144.2 L960.0,215.1 L947.5,212.6 L935.0,212.0 L922.5,213.7 L910.0,216.7 L897.5,219.2 L885.0,219.8 L872.5,218.1 L860.0,215.1 L847.5,212.4 L835.0,211.5 L822.5,212.9 L810.0,215.7 L797.5,218.0 L785.0,218.5 L772.5,216.6 L760.0,213.2 L747.5,210.1 L735.0,208.7 L722.5,209.5 L710.0,211.5 L697.5,213.1 L685.0,212.6 L672.5,209.0 L660.0,200.0 Z"/>
+  <line class="now" x1="660" y1="80" x2="660" y2="292"/>
+  <path class="hist" d="M40.0,230.5 L50.3,236.3 L60.7,236.7 L71.0,236.4 L81.3,232.0 L91.7,231.8 L102.0,238.7 L112.3,239.1 L122.7,241.9 L133.0,238.4 L143.3,235.5 L153.7,231.2 L164.0,216.2 L174.3,218.9 L184.7,219.4 L195.0,220.2 L205.3,208.5 L215.7,199.5 L226.0,198.1 L236.3,200.4 L246.7,207.6 L257.0,211.9 L267.3,219.0 L277.7,217.7 L288.0,221.9 L298.3,225.1 L308.7,220.4 L319.0,229.7 L329.3,229.2 L339.7,231.6 L350.0,221.7 L360.3,212.1 L370.7,206.2 L381.0,202.8 L391.3,204.5 L401.7,204.2 L412.0,200.5 L422.3,195.3 L432.7,194.6 L443.0,205.3 L453.3,202.7 L463.7,207.3 L474.0,212.4 L484.3,205.0 L494.7,207.7 L505.0,216.8 L515.3,203.3 L525.7,201.4 L536.0,199.9 L546.3,193.3 L556.7,194.8 L567.0,192.0 L577.3,180.8 L587.7,185.3 L598.0,188.1 L608.3,192.6 L618.7,200.0 L629.0,200.5 L639.3,200.3 L649.7,192.6 L660.0,198.4"/>
+  <path class="fc" d="M660.0,198.0 L672.5,200.2 L685.0,200.9 L697.5,199.3 L710.0,195.9 L722.5,192.2 L735.0,190.0 L747.5,190.0 L760.0,191.9 L772.5,194.1 L785.0,194.9 L797.5,193.4 L810.0,190.0 L822.5,186.3 L835.0,184.0 L847.5,183.9 L860.0,185.8 L872.5,188.0 L885.0,188.9 L897.5,187.5 L910.0,184.2 L922.5,180.4 L935.0,178.0 L947.5,177.9 L960.0,179.6"/>
+  <circle class="dot" cx="660.0" cy="198.4" r="4.5"/>
+  <text class="lbl" x="652" y="290" text-anchor="end">observed</text>
+  <text class="lbl" x="668" y="290">forecast · 80% / 50% intervals</text>
+  <text class="hi" x="44" y="62">&gt; hello, world. I'm</text>
+  <text class="name" x="42" y="112">Yash Chitransh</text>
+  <text class="sub" x="44" y="142">M.Sc. Mathematics &amp; Scientific Computing · NIT Warangal</text>
+  <text class="tag" x="44" y="168">TIME SERIES · UNCERTAINTY QUANTIFICATION · QUANT FINANCE</text>
+</g>
+</svg>
