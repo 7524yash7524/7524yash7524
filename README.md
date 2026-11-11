@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://7524yash7524.github.io"><img src="https://img.shields.io/badge/Website-7524yash7524.github.io-2DD4BF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal website"></a>
   <a href="https://www.linkedin.com/in/yash-chitransh-4b108b2aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@ysrivastava470"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://doi.org/10.2139/ssrn.7300198"><img src="https://img.shields.io/badge/SSRN-Paper-1A5A96?style=for-the-badge" alt="SSRN paper"></a>
