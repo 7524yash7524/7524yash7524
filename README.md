@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Forecasting time series with honest uncertainty | Open-source contributor to sktime | Conformal prediction · Chronos-2 calibration audit | Aspiring Data Scientist / Quant | Open to data science, ML & analytics internships" width="100%">
+  <img src="./assets/typing.svg" alt="Forecasting time series with honest uncertainty | Open-source contributor to sktime | Conformal prediction · Chronos-2 calibration audit | Data Scientist / Quant | Turning math into insights" width="100%">
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@ I don't just use tools — I understand why they work.
 - 📈 Time series forecasting, from ARIMA/SARIMAX to foundation models like Chronos-2
 - 🎯 Uncertainty quantification and conformal prediction
 - 💹 Financial analytics and quant finance
-- 🤝 Open to **data science, ML and analytics internships**
 
 ---
 
