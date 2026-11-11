@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Chronos-2 calibration audit at a 16-day horizon: target coverage 80%, Chronos-2 raw 75.2%, after conformal correction 78.7%">
+<title>Chronos-2 calibration audit</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14183a"/></linearGradient></defs>
+<style>
+  .ttl { font: 700 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#e2e8f0 } .st { font: 500 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#94a3b8 }
+  .nm { font: 600 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#cbd5e1 } .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace }
+  .tk { stroke:#ffffff; stroke-opacity:.06 } .tl { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#64748b }
+  .tgt { stroke:#f8fafc; stroke-width:2; stroke-dasharray:5 5; animation: dash 1s linear infinite }
+  .gap { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#fda4af; opacity:0; animation: gp 10.0s ease-out infinite }
+  @keyframes dash { to { stroke-dashoffset:-10 } }
+  @keyframes gp { 0%,36.00% {opacity:0} 42.00%,92.00% {opacity:1} 100% {opacity:0} }
+  .b0{transform-origin:250px 0;animation:g0 10.0s cubic-bezier(.2,.8,.2,1) infinite} @keyframes g0{0%,4.00%{transform:scaleX(0)} 16.00%,92.00%{transform:scaleX(1);opacity:1} 100%{transform:scaleX(1);opacity:0}} .v0{opacity:0;animation:o0 10.0s ease-out infinite} @keyframes o0{0%,14.00%{opacity:0} 18.00%,92.00%{opacity:1} 100%{opacity:0}} .b1{transform-origin:250px 0;animation:g1 10.0s cubic-bezier(.2,.8,.2,1) infinite} @keyframes g1{0%,12.00%{transform:scaleX(0)} 24.00%,92.00%{transform:scaleX(1);opacity:1} 100%{transform:scaleX(1);opacity:0}} .v1{opacity:0;animation:o1 10.0s ease-out infinite} @keyframes o1{0%,22.00%{opacity:0} 26.00%,92.00%{opacity:1} 100%{opacity:0}} .b2{transform-origin:250px 0;animation:g2 10.0s cubic-bezier(.2,.8,.2,1) infinite} @keyframes g2{0%,22.00%{transform:scaleX(0)} 34.00%,92.00%{transform:scaleX(1);opacity:1} 100%{transform:scaleX(1);opacity:0}} .v2{opacity:0;animation:o2 10.0s ease-out infinite} @keyframes o2{0%,32.00%{opacity:0} 36.00%,92.00%{opacity:1} 100%{opacity:0}}
+  @media (prefers-reduced-motion: reduce) { .bar,.val,.gap,.tgt { animation:none !important; opacity:1 } }
+</style>
+<rect x=".5" y=".5" width="899" height="299" rx="16" fill="url(#bg)" stroke="#2a3557"/>
+<text class="ttl" x="28" y="36">Chronos-2 calibration audit · Sensex/Nifty · 16-day horizon</text>
+<text class="st" x="28" y="58">Nominal 80% intervals covered only 71–75% of outcomes beyond day 1 · axis starts at 60%</text>
+<line x1="250.0" y1="82" x2="250.0" y2="252" class="tk"/><text class="tl" x="250.0" y="270" text-anchor="middle">60%</text><line x1="368.0" y1="82" x2="368.0" y2="252" class="tk"/><text class="tl" x="368.0" y="270" text-anchor="middle">65%</text><line x1="486.0" y1="82" x2="486.0" y2="252" class="tk"/><text class="tl" x="486.0" y="270" text-anchor="middle">70%</text><line x1="604.0" y1="82" x2="604.0" y2="252" class="tk"/><text class="tl" x="604.0" y="270" text-anchor="middle">75%</text><line x1="722.0" y1="82" x2="722.0" y2="252" class="tk"/><text class="tl" x="722.0" y="270" text-anchor="middle">80%</text><line x1="840.0" y1="82" x2="840.0" y2="252" class="tk"/><text class="tl" x="840.0" y="270" text-anchor="middle">85%</text>
+<text class="nm" x="236" y="113" text-anchor="end">Target coverage</text>
+<rect x="250" y="92" width="590.0" height="30" rx="6" fill="#ffffff" fill-opacity=".04"/>
+<rect class="bar b0" x="250" y="92" width="472.0" height="30" rx="6" fill="#475569"/>
+<text class="val v0" x="710.0" y="113" text-anchor="end" fill="#f8fafc">80.0%</text><text class="nm" x="236" y="165" text-anchor="end">Chronos-2 (raw)</text>
+<rect x="250" y="144" width="590.0" height="30" rx="6" fill="#ffffff" fill-opacity=".04"/>
+<rect class="bar b1" x="250" y="144" width="358.7" height="30" rx="6" fill="#38bdf8"/>
+<text class="val v1" x="596.7" y="165" text-anchor="end" fill="#0b1020">75.2%</text><text class="nm" x="236" y="217" text-anchor="end">+ conformal correction</text>
+<rect x="250" y="196" width="590.0" height="30" rx="6" fill="#ffffff" fill-opacity=".04"/>
+<rect class="bar b2" x="250" y="196" width="441.3" height="30" rx="6" fill="#a78bfa"/>
+<text class="val v2" x="679.3" y="217" text-anchor="end" fill="#0b1020">78.7%</text>
+<line class="tgt" x1="722.0" y1="80" x2="722.0" y2="254"/>
+<text class="gap" x="250" y="292">gap to target:  4.8 pts  →  1.3 pts after conformal correction</text>
+</svg>

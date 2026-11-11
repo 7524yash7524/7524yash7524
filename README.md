@@ -13,7 +13,7 @@
   <a href="https://github.com/sktime/sktime/pulls?q=is%3Apr+author%3A7524yash7524"><img src="https://img.shields.io/badge/sktime-contributor-0B4F6C?style=for-the-badge&logo=github&logoColor=white" alt="sktime contributor"></a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 👋 About Me
 
@@ -23,15 +23,23 @@ M.Sc. student at **NIT Warangal**, building end-to-end data science projects acr
 time series forecasting, financial analytics, uncertainty quantification, and machine learning.
 I don't just use tools — I understand why they work.
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami yash_chitransh; focus: time series, uncertainty quantification, quant finance; git log of my sktime pull requests" width="100%">
+</p>
+
 - 📈 Time series forecasting, from ARIMA/SARIMAX to foundation models like Chronos-2
 - 🎯 Uncertainty quantification and conformal prediction
 - 💹 Financial analytics and quant finance
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🌱 Open Source
 
 Contributing to [**sktime**](https://github.com/sktime/sktime), the unified Python framework for machine learning with time series.
+
+<p align="center">
+  <img src="./assets/gitgraph.svg" alt="Git graph of my sktime pull requests: #11464 merged, #11469 and #11692 in review" width="100%">
+</p>
 
 | Pull request | What it does | Status |
 |---|---|---|
@@ -39,7 +47,7 @@ Contributing to [**sktime**](https://github.com/sktime/sktime), the unified Pyth
 | [#11469](https://github.com/sktime/sktime/pull/11469) · `AutoETS` bug fix | Fixed `predict_interval` crashing for multiplicative models (seed passed nested in `simulate_kwargs`), with a regression test | 🟡 **In review** |
 | [#11692](https://github.com/sktime/sktime/pull/11692) · `StatsModelsTheta` | New forecaster interfacing statsmodels' `ThetaModel`, with prediction intervals | 🟡 **In review** |
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🎓 Education
 
@@ -47,38 +55,23 @@ Contributing to [**sktime**](https://github.com/sktime/sktime), the unified Pyth
 - **B.Sc. Mathematics & Statistics** — University of Lucknow *(Completed)*
 - 🏅 **IIT JAM AIR 216** (Statistics)
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="./assets/orbit.svg" alt="Tech stack: Python, SQL, C++, R; pandas, NumPy, scikit-learn, statsmodels, sktime; Plotly, Matplotlib, Seaborn, Streamlit, Jupyter, Git, VS Code" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logoColor=white" alt="Statsmodels">
-  <img src="https://img.shields.io/badge/sktime-0B4F6C?style=for-the-badge&logoColor=white" alt="sktime">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🚀 Projects
+
+**Featured result:** how well Amazon's Chronos-2 foundation model is really calibrated on Indian equity indices.
+
+<p align="center">
+  <a href="https://doi.org/10.2139/ssrn.7300198"><img src="./assets/calibration.svg" alt="Chronos-2 calibration audit, 16-day horizon: target 80%, Chronos-2 raw 75.2%, after conformal correction 78.7%" width="100%"></a>
+</p>
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -92,7 +85,7 @@ Contributing to [**sktime**](https://github.com/sktime/sktime), the unified Pyth
 | 🧪 [WQU Applied Data Science Lab](https://github.com/7524yash7524/WQU-Applied-Data-Science-Lab) | EDA, regression, time series, classification and financial modelling projects | Python, Pandas, Scikit-learn |
 | 🗺️ [India Census Visualization](https://github.com/7524yash7524/database-mini-project-on-India-Census) | Interactive district-level map of India Census 2011 data | Python, Streamlit, Plotly |
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🧠 Currently Learning
 
@@ -110,7 +103,7 @@ Data Science Roadmap
 
 **Resources I'm following:** CampusX DSMP · WorldQuant University Applied Data Science Lab · Kaggle
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🐍 Contribution Activity
 
@@ -122,7 +115,7 @@ Data Science Roadmap
   </picture>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## ✍️ Writing
 
@@ -131,9 +124,13 @@ I write about Data Science, Time Series, and Uncertainty Quantification on Mediu
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ysrivastava470)
 [![SSRN](https://img.shields.io/badge/SSRN-Paper-1A5A96?style=for-the-badge)](https://doi.org/10.2139/ssrn.7300198)
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 ## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/7524yash7524/chess-dashboard-improved"><img src="./assets/chess.svg" alt="Chess x Machine Learning: 3,797 personal games, ROC-AUC 0.838, chess.com 888yashu888" width="100%"></a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chitransh-4b108b2aa)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ysrivastava470)

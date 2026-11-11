@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Tech stack: Python, SQL, C++, R; pandas, NumPy, scikit-learn, statsmodels, sktime; Plotly, Matplotlib, Seaborn, Streamlit, Jupyter, Git, VS Code">
+<title>Tech stack</title>
+<defs>
+  <radialGradient id="core" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#7dd3fc"/><stop offset=".55" stop-color="#6366f1"/><stop offset="1" stop-color="#312e81"/></radialGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#818cf8" stop-opacity=".45"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .ring { fill:none; stroke-width:1.2; stroke-opacity:.28; stroke-dasharray:3 7; animation: spin 30s linear infinite; }
+  .pl { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#e2e8f0; }
+  .c1 { font: 800 21px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#f8fafc; } .c2 { font: 600 10.5px ui-monospace, Menlo, Consolas, monospace; fill:#c7d2fe; letter-spacing:1.5px }
+  .halo { transform-origin:450px 200px; animation: breathe 4s ease-in-out infinite; }
+  @keyframes spin { to { stroke-dashoffset:-200 } }
+  @keyframes breathe { 0%,100% { transform:scale(1); opacity:.8 } 50% { transform:scale(1.18); opacity:1 } }
+</style>
+<path d="M620,200 A170,62 0 1,1 280,200 A170,62 0 1,1 620,200" class="ring" stroke="#38bdf8"/><path d="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200" class="ring" stroke="#a78bfa"/><path d="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200" class="ring" stroke="#34d399"/>
+<circle class="halo" cx="450" cy="200" r="95" fill="url(#halo)"/>
+<circle cx="450" cy="200" r="52" fill="url(#core)"/>
+<text class="c1" x="450" y="203" text-anchor="middle">Yash</text>
+<text class="c2" x="450" y="221" text-anchor="middle">TECH STACK</text>
+<g>
+  <animateMotion dur="22s" repeatCount="indefinite" begin="0.00s" path="M620,200 A170,62 0 1,1 280,200 A170,62 0 1,1 620,200"/>
+  <rect x="-42.0" y="-15" width="84.0" height="30" rx="15" fill="#0f172a" stroke="#38bdf8" stroke-width="1.6"/>
+  <circle cx="-29.0" cy="0" r="4" fill="#38bdf8"/>
+  <text x="-18.0" y="5" class="pl">Python</text>
+</g><g>
+  <animateMotion dur="22s" repeatCount="indefinite" begin="-5.50s" path="M620,200 A170,62 0 1,1 280,200 A170,62 0 1,1 620,200"/>
+  <rect x="-30.0" y="-15" width="60.0" height="30" rx="15" fill="#0f172a" stroke="#38bdf8" stroke-width="1.6"/>
+  <circle cx="-17.0" cy="0" r="4" fill="#38bdf8"/>
+  <text x="-6.0" y="5" class="pl">SQL</text>
+</g><g>
+  <animateMotion dur="22s" repeatCount="indefinite" begin="-11.00s" path="M620,200 A170,62 0 1,1 280,200 A170,62 0 1,1 620,200"/>
+  <rect x="-30.0" y="-15" width="60.0" height="30" rx="15" fill="#0f172a" stroke="#38bdf8" stroke-width="1.6"/>
+  <circle cx="-17.0" cy="0" r="4" fill="#38bdf8"/>
+  <text x="-6.0" y="5" class="pl">C++</text>
+</g><g>
+  <animateMotion dur="22s" repeatCount="indefinite" begin="-16.50s" path="M620,200 A170,62 0 1,1 280,200 A170,62 0 1,1 620,200"/>
+  <rect x="-22.0" y="-15" width="44.0" height="30" rx="15" fill="#0f172a" stroke="#38bdf8" stroke-width="1.6"/>
+  <circle cx="-9.0" cy="0" r="4" fill="#38bdf8"/>
+  <text x="2.0" y="5" class="pl">R</text>
+</g><g>
+  <animateMotion dur="34s" repeatCount="indefinite" begin="0.00s" path="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200"/>
+  <rect x="-42.0" y="-15" width="84.0" height="30" rx="15" fill="#0f172a" stroke="#a78bfa" stroke-width="1.6"/>
+  <circle cx="-29.0" cy="0" r="4" fill="#a78bfa"/>
+  <text x="-18.0" y="5" class="pl">pandas</text>
+</g><g>
+  <animateMotion dur="34s" repeatCount="indefinite" begin="-6.80s" path="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200"/>
+  <rect x="-38.0" y="-15" width="76.0" height="30" rx="15" fill="#0f172a" stroke="#a78bfa" stroke-width="1.6"/>
+  <circle cx="-25.0" cy="0" r="4" fill="#a78bfa"/>
+  <text x="-14.0" y="5" class="pl">NumPy</text>
+</g><g>
+  <animateMotion dur="34s" repeatCount="indefinite" begin="-13.60s" path="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200"/>
+  <rect x="-66.0" y="-15" width="132.0" height="30" rx="15" fill="#0f172a" stroke="#a78bfa" stroke-width="1.6"/>
+  <circle cx="-53.0" cy="0" r="4" fill="#a78bfa"/>
+  <text x="-42.0" y="5" class="pl">scikit-learn</text>
+</g><g>
+  <animateMotion dur="34s" repeatCount="indefinite" begin="-20.40s" path="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200"/>
+  <rect x="-62.0" y="-15" width="124.0" height="30" rx="15" fill="#0f172a" stroke="#a78bfa" stroke-width="1.6"/>
+  <circle cx="-49.0" cy="0" r="4" fill="#a78bfa"/>
+  <text x="-38.0" y="5" class="pl">statsmodels</text>
+</g><g>
+  <animateMotion dur="34s" repeatCount="indefinite" begin="-27.20s" path="M740,200 A290,108 0 1,1 160,200 A290,108 0 1,1 740,200"/>
+  <rect x="-42.0" y="-15" width="84.0" height="30" rx="15" fill="#0f172a" stroke="#a78bfa" stroke-width="1.6"/>
+  <circle cx="-29.0" cy="0" r="4" fill="#a78bfa"/>
+  <text x="-18.0" y="5" class="pl">sktime</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="0.00s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-42.0" y="-15" width="84.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-29.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-18.0" y="5" class="pl">Plotly</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-6.86s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-58.0" y="-15" width="116.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-45.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-34.0" y="5" class="pl">Matplotlib</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-13.71s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-46.0" y="-15" width="92.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-33.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-22.0" y="5" class="pl">Seaborn</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-20.57s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-54.0" y="-15" width="108.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-41.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-30.0" y="5" class="pl">Streamlit</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-27.43s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-46.0" y="-15" width="92.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-33.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-22.0" y="5" class="pl">Jupyter</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-34.29s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-30.0" y="-15" width="60.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-17.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-6.0" y="5" class="pl">Git</text>
+</g><g>
+  <animateMotion dur="48s" repeatCount="indefinite" begin="-41.14s" path="M835,200 A385,158 0 1,1 65,200 A385,158 0 1,1 835,200"/>
+  <rect x="-46.0" y="-15" width="92.0" height="30" rx="15" fill="#0f172a" stroke="#34d399" stroke-width="1.6"/>
+  <circle cx="-33.0" cy="0" r="4" fill="#34d399"/>
+  <text x="-22.0" y="5" class="pl">VS Code</text>
+</g>
+</svg>

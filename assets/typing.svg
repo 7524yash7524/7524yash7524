@@ -29,27 +29,27 @@
 </style>
   <g id="t0">
     <clipPath id="cp0"><rect class="clip" x="216.8" y="8" height="40" width="0"/></clipPath>
-    <text x="216.8" y="35" clip-path="url(#cp0)">Forecasting time series with honest uncertainty</text>
+    <text x="216.8" y="35" textLength="566.4" lengthAdjust="spacing" clip-path="url(#cp0)">Forecasting time series with honest uncertainty</text>
     <rect class="cur" x="218.8" y="15" width="10" height="24" rx="1.5"/>
   </g>
   <g id="t1">
     <clipPath id="cp1"><rect class="clip" x="301.2" y="8" height="40" width="0"/></clipPath>
-    <text x="301.2" y="35" clip-path="url(#cp1)">Open-source contributor to sktime</text>
+    <text x="301.2" y="35" textLength="397.7" lengthAdjust="spacing" clip-path="url(#cp1)">Open-source contributor to sktime</text>
     <rect class="cur" x="303.2" y="15" width="10" height="24" rx="1.5"/>
   </g>
   <g id="t2">
     <clipPath id="cp2"><rect class="clip" x="198.8" y="8" height="40" width="0"/></clipPath>
-    <text x="198.8" y="35" clip-path="url(#cp2)">Conformal prediction · Chronos-2 calibration audit</text>
+    <text x="198.8" y="35" textLength="602.5" lengthAdjust="spacing" clip-path="url(#cp2)">Conformal prediction · Chronos-2 calibration audit</text>
     <rect class="cur" x="200.8" y="15" width="10" height="24" rx="1.5"/>
   </g>
   <g id="t3">
     <clipPath id="cp3"><rect class="clip" x="367.4" y="8" height="40" width="0"/></clipPath>
-    <text x="367.4" y="35" clip-path="url(#cp3)">Data Scientist / Quant</text>
+    <text x="367.4" y="35" textLength="265.1" lengthAdjust="spacing" clip-path="url(#cp3)">Data Scientist / Quant</text>
     <rect class="cur" x="369.4" y="15" width="10" height="24" rx="1.5"/>
   </g>
   <g id="t4">
     <clipPath id="cp4"><rect class="clip" x="343.4" y="8" height="40" width="0"/></clipPath>
-    <text x="343.4" y="35" clip-path="url(#cp4)">Turning math into insights</text>
+    <text x="343.4" y="35" textLength="313.3" lengthAdjust="spacing" clip-path="url(#cp4)">Turning math into insights</text>
     <rect class="cur" x="345.4" y="15" width="10" height="24" rx="1.5"/>
   </g>
 </svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="282" viewBox="0 0 900 282" role="img" aria-label="Git graph of my sktime pull requests: #11464 merged into main, #11469 and #11692 in review">
+<title>My sktime pull requests</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#171236"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .main { stroke:#64748b; stroke-width:4; fill:none; stroke-linecap:round; }
+  .flow { stroke:#94a3b8; stroke-width:4; fill:none; stroke-dasharray:2 22; stroke-linecap:round; animation: flow 1.6s linear infinite; opacity:.7 }
+  .br { fill:none; stroke-width:4; stroke-linecap:round; stroke-dasharray:900; stroke-dashoffset:900; }
+  .b1 { stroke:#a78bfa; animation: d1 12.0s ease-in-out infinite; }
+  .b2 { stroke:#facc15; animation: d2 12.0s ease-in-out infinite; }
+  .b3 { stroke:#facc15; animation: d3 12.0s ease-in-out infinite; }
+  .n { stroke:#0b1020; stroke-width:3; opacity:0; }
+  .lbl { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#e2e8f0; opacity:0; }
+  .sub { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; opacity:0; }
+  .mn { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#94a3b8; }
+  .ttl { font: 700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill:#cbd5e1; letter-spacing:.4px }
+  .pulse { transform-box: fill-box; transform-origin:center; animation: pulse 1.6s ease-out infinite; }
+  @keyframes flow { to { stroke-dashoffset:-24 } }
+  @keyframes d1 { 0%,2.50% {stroke-dashoffset:900} 19.17%,91.67% {stroke-dashoffset:0;opacity:1} 100% {stroke-dashoffset:0;opacity:0} }
+  @keyframes d2 { 0%,21.67% {stroke-dashoffset:900} 40.00%,91.67% {stroke-dashoffset:0;opacity:1} 100% {stroke-dashoffset:0;opacity:0} }
+  @keyframes d3 { 0%,41.67% {stroke-dashoffset:900} 58.33%,91.67% {stroke-dashoffset:0;opacity:1} 100% {stroke-dashoffset:0;opacity:0} }
+  @keyframes pop { 0% {opacity:0;transform:scale(.2)} 60% {opacity:1;transform:scale(1.25)} 100% {opacity:1;transform:scale(1)} }
+  @keyframes pulse { 0% { opacity:.9; transform:scale(1) } 100% { opacity:0; transform:scale(2.6) } }
+  @keyframes s1 { 0%,18.33% {opacity:0} 21.25%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s2 { 0%,39.17% {opacity:0} 42.08%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s3 { 0%,57.50% {opacity:0} 60.42%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s4 { 0%,7.50% {opacity:0} 10.42%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s5 { 0%,13.33% {opacity:0} 16.25%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s6 { 0%,28.33% {opacity:0} 31.25%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s7 { 0%,34.17% {opacity:0} 37.08%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s8 { 0%,46.67% {opacity:0} 49.58%,91.67% {opacity:1} 100% {opacity:0} }@keyframes s9 { 0%,52.50% {opacity:0} 55.42%,91.67% {opacity:1} 100% {opacity:0} }
+  .s1 { animation: s1 12.0s ease-out infinite } .s2 { animation: s2 12.0s ease-out infinite } .s3 { animation: s3 12.0s ease-out infinite }
+  .s4 { animation: s4 12.0s ease-out infinite } .s5 { animation: s5 12.0s ease-out infinite } .s6 { animation: s6 12.0s ease-out infinite }
+  .s7 { animation: s7 12.0s ease-out infinite } .s8 { animation: s8 12.0s ease-out infinite } .s9 { animation: s9 12.0s ease-out infinite }
+  @media (prefers-reduced-motion: reduce) { .br,.n,.lbl,.sub,.flow,.pulse { animation:none !important; stroke-dashoffset:0; opacity:1 } }
+</style>
+<rect x=".5" y=".5" width="899" height="281" rx="16" fill="url(#bg)" stroke="#2a3557"/>
+<text class="ttl" x="28" y="34">sktime · my pull requests</text>
+<g transform="translate(0,32)"><path class="main" d="M40,135 L860,135"/><path class="flow" d="M40,135 L860,135"/>
+<text class="mn" x="40" y="165">main</text>
+<circle cx="110" cy="135" r="7" fill="#64748b"/><circle cx="300" cy="135" r="7" fill="#64748b"/><circle cx="520" cy="135" r="7" fill="#64748b"/>
+
+<path class="br b1" d="M110,135 C150,135 150,62 195,62 L355,62 C400,62 400,135 445,135"/>
+<circle class="n s4" cx="235" cy="62" r="7" fill="#a78bfa"/><circle class="n s5" cx="315" cy="62" r="7" fill="#a78bfa"/>
+<circle class="pulse s1" cx="445" cy="135" r="11" fill="none" stroke="#a78bfa" stroke-width="3"/>
+<circle class="n s1" cx="445" cy="135" r="11" fill="#a78bfa" filter="url(#glow)"/>
+<text class="lbl s1" x="195" y="44">#11464 · CutoffSplitter docs</text>
+<text class="sub s1" x="455" y="117" fill="#c4b5fd">✔ merged</text>
+
+<path class="br b2" d="M300,135 C340,135 340,205 385,205 L770,205"/>
+<circle class="n s6" cx="480" cy="205" r="7" fill="#facc15"/><circle class="n s7" cx="620" cy="205" r="7" fill="#facc15"/>
+<circle class="pulse s2" cx="770" cy="205" r="9" fill="none" stroke="#facc15" stroke-width="3"/>
+<circle class="n s2" cx="770" cy="205" r="9" fill="#facc15"/>
+<text class="lbl s2" x="400" y="232">#11469 · AutoETS bug fix</text>
+<text class="sub s2" x="788" y="210" fill="#fde047">● in review</text>
+
+<path class="br b3" d="M520,135 C560,135 560,62 605,62 L770,62"/>
+<circle class="n s8" cx="660" cy="62" r="7" fill="#facc15"/><circle class="n s9" cx="715" cy="62" r="7" fill="#facc15"/>
+<circle class="pulse s3" cx="770" cy="62" r="9" fill="none" stroke="#facc15" stroke-width="3"/>
+<circle class="n s3" cx="770" cy="62" r="9" fill="#facc15"/>
+<text class="lbl s3" x="605" y="44">#11692 · StatsModelsTheta</text>
+<text class="sub s3" x="788" y="67" fill="#fde047">● in review</text>
+</g>
+</svg>
